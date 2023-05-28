@@ -88,4 +88,4 @@ proxies:
     udp: true
 
  ############################################
-    path: "/pathAkun/"
+  #  path: "/pathAkun/"
