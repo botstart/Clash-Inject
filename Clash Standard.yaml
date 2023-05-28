@@ -19,7 +19,7 @@ proxies:
    Akun: 
      type: http 
      behavior: classic 
-     url: "https://raw.githubusercontent.com/pena-internet/pena-internet.github.io/master/clash/Akun.yaml" 
+     url: "https://raw.githubusercontent.com/pena-internet/Clash-Inject/main/Account/Akun.yaml?token=GHSAT0AAAAAACC2JTPSHHE2U2BDV7DNLP6IZDTLQQQ" 
      path: ./akun.yaml 
      interval: 86400 
   
