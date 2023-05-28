@@ -88,7 +88,4 @@ proxies:
     udp: true
 
  ############################################
-    path: "/pathakun/"
-#jika untuk CFA, hapus # nya untuk CFM pakai #
-#semoga bermanfaat by Toppay Official
-#jangan lupa SUBSCRIBE
+    path: "/pathAkun/"
