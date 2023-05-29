@@ -6,7 +6,7 @@ proxies:
   #Letakan Akun yang sudah di convert ke bawah ini, jangan pakai proxies: lagi
 # di bawah ini
 
-  - name: kuota 1gb day
+  - name: 1 GB day 96
     server: 104.16.108.96
     port: 80
     type: vmess
@@ -22,7 +22,7 @@ proxies:
       headers:
         Host: sg3-v2ray.sshkit.org
     udp: true
-  - name: kuota 1gb day
+  - name: 1 GB day 89
     server: 104.19.142.89
     port: 80
     type: vmess
