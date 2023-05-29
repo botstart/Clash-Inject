@@ -70,7 +70,7 @@ proxies:
       headers:
         Host: sg3-v2ray.sshkit.org
     udp: true
-  - name: kuota bonus opok
+  - name: kuota bonus
     server: 104.22.28.102
     port: 80
     type: vmess
